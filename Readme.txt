@@ -1,4 +1,4 @@
 This is a simulation engine for recommendation system
 
 
-Edit by Yubai Yuan
+Revised by Yubai Yuan, edited by Haoda Fu
